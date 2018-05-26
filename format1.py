@@ -1,4 +1,3 @@
-#!/bin/env/python
 
 # first test to formatted output
 
